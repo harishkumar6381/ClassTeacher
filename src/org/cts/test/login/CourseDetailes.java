@@ -13,6 +13,9 @@ public class CourseDetailes {
 		System.out.println("pythone course is started");
 		
 	}
+	private void Git() {
+		System.out.println("qwerty");
+	}
 
 	
 	public static void main(String[] args) {
