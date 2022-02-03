@@ -13,7 +13,9 @@ public class CourseDetailes {
 		System.out.println("pythone course is started");
 		
 	}
-
+	private void Get() {
+		System.out.println("asdfgh");
+	}
 	
 	public static void main(String[] args) {
 		CourseDetailes c = new CourseDetailes();
